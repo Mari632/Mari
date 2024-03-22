@@ -1,7 +1,6 @@
 # tenho interesse em:
  - empreender
  - frontend
- - dsing
+ - design
  - mongodb
  - lógica de programação
- 
